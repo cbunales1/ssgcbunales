@@ -1,0 +1,13 @@
+.box {
+  padding : 20px 0;
+  width: 100%;
+  display: block;
+  text-align: center;
+  color: white;
+  font-size: 22px;
+  line-height: 30px;
+  font-weight: bold;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+ color:#FF9E0D;   
+}
